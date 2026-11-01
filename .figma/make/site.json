@@ -1,0 +1,10 @@
+{
+  "description": "Informativna Degra Srbija storefront for men exploring erectile dysfunction treatment, with product details, safety guidance, and prescription-aware ordering information.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
